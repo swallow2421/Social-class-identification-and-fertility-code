@@ -172,7 +172,4 @@ Please see the repository license file for terms of use. The article is publishe
 ## Contact
 
 For questions about the code or replication materials, please contact:
-
-**Wenyan Xu**  
-College of Economics and Management, China Agricultural University  
 Email: xuwenyan@cau.edu.cn
